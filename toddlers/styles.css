@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(135deg, #73C8A9, #373B44);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  h1 {
+    text-align: center;
+    padding: 20px;
+    color: #FFFFFF;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #FFFFFF;
+  }
+  
+  #content {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .activity {
+    display: none;
+  }
+  
+  .colorOption,
+  .alphabetOption,
+  .numberOption {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #FFFFFF;
+    color: #000000;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  #btnNext {
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #FFFFFF;
+    color: #000000;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin-bottom: 50px;
+  }
+  
+  #colorShape {
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+  }
+  
